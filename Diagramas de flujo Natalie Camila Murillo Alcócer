@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T15:00:25.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="v6RzAZzPk_mxERNdFWzC" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T15:21:34.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Nhq67jdXzupevw3a5tRl" version="14.3.2" type="github">
   <diagram id="zKWGI2Iz0unPwjb91pjK" name="Page-1">
     <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="ts-xZLJMpD3NAlcz9tSk-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ts-xZLJMpD3NAlcz9tSk-63" target="ts-xZLJMpD3NAlcz9tSk-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ts-xZLJMpD3NAlcz9tSk-63" value="PT=(HT+(HT*1))*PH" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="ts-xZLJMpD3NAlcz9tSk-63" value="PT= (8*PH)+((HT-8)*PH*2)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="4020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ts-xZLJMpD3NAlcz9tSk-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ts-xZLJMpD3NAlcz9tSk-64" target="ts-xZLJMpD3NAlcz9tSk-77">
