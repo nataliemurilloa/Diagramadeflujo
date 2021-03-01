@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T20:17:24.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="B7sezrYfncGOqkB2sHWq" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T22:18:13.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="EU-il3UH_dJ0nlOp8sI0" version="14.4.3" type="github">
   <diagram id="9Rhb1mpeZ9tAiZlq9oDw" name="Page-1">
     <mxGraphModel dx="1488" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="0DL_U8hL-LAHc2jkmgp_-54" value="S=N" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="475" y="1710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0DL_U8hL-LAHc2jkmgp_-55" value="N/2=0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
+        <mxCell id="0DL_U8hL-LAHc2jkmgp_-55" value="N mod D=0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="165" y="1710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0DL_U8hL-LAHc2jkmgp_-56" value="P=VERDADERO" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
@@ -469,13 +469,13 @@
         <mxCell id="D2357W7uca6GWGHzLO58-23" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="435" y="3170" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeqEEITVDwafVDBx5QF1-1" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QeqEEITVDwafVDBx5QF1-1" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="660" y="1110" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeqEEITVDwafVDBx5QF1-2" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QeqEEITVDwafVDBx5QF1-2" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="660" y="2270" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeqEEITVDwafVDBx5QF1-3" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QeqEEITVDwafVDBx5QF1-3" value="NATALIE CAMILA MURILLO ALCOCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="660" y="3450" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
